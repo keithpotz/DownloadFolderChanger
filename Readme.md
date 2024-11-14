@@ -1,5 +1,7 @@
 # Download Folder Changer
 
+![image](https://github.com/user-attachments/assets/5f050e7c-aa95-4189-b90d-81800921fa9a)
+
 Download Folder Changer is a simple Windows application that allows users to set or reset the default download folder for their system. The program modifies registry settings to change the default folder used by Windows to save.
 ## Features
 - Select any folder to set as the default download location.
