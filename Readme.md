@@ -30,4 +30,6 @@ Download Folder Changer is a simple Windows application that allows users to set
 - **Disclaimer**: This program modifies registry settings to change the default download folder. Make sure to select a valid and accessible folder to avoid issues.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This project is licensed under the GNU GPL v3 License - see the [LICENSE](LICENSE) file for details.
+
